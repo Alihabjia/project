@@ -1,25 +1,27 @@
-[
-  "proj":
-    [
-     {
-      "id":1,
-      "libelle":"Gestion  des projets",
-      "description":"descption 1",
-      "date_debut":"2019-03-04",
-      "date_fin_prevu":"2019-09-02",
-      "date_fin_reel":"0000-00-00",
-      "etat":"en attente",
-      "client":"SocialX"
-     },
-     {
-      "id":2,
-      "libelle":"Gestion des Cong ",
-      "description":"description 2 ",
-      "date_debut":"2019-06-09",
-      "date_fin_prevu":"2020-06-13",
-      "date_fin_reel":"0000-00-00",
-      "etat":"en attente",
-      "client":"SocialX"
-     }
-	]
-]
+{
+	"Timestamp":"2019-07-01T14:11:10.399741Z",
+	"Method":"POST",
+	"RemoteAddr":"196.77.33.33",
+	"ID":342920040,
+	"Headers":{
+		"Accept":["application/json, text/plain, */*"],
+		"Content-Length":["154"],
+		"Content-Type":["application/json"],
+		"Host":["ptsv2.com"],
+		"User-Agent":["okhttp/3.12.1"],
+		"X-Cloud-Trace-Context":["2675d177326d308a74e20c5de9fa0876/15264631379757840339"],
+		"X-Google-Apps-Metadata":["domain=gmail.com,host=ptsv2.com"]
+	},
+	"FormValues":{},
+	"Body":"{
+	\"libelle\":\"sssss\",
+	\"description\":\"ddddddd\",
+	\"date_debut\":\"01-06-2019\",
+	\"date_fin_prevu\":\"30-06-2019\",
+	\"date_fin_reel\":\"\",
+	\"etat\":\"en attente\",
+	\"client\":\"jean\"
+	}",
+	"Files":null,
+	"MultipartValues":null
+}
