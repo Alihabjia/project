@@ -1,4 +1,25 @@
-
 [
-  
+  "project":
+    [
+     {
+      "id":1,
+      "libelle":"Gestion  des projets",
+      "description":"descption 1",
+      "date_debut":"2019-03-04",
+      "date_fin_prevu":"2019-09-02",
+      "date_fin_reel":"0000-00-00",
+      "etat":"en attente",
+      "client":"SocialX"
+     },
+     {
+      "id":2,
+      "libelle":"Gestion des Cong ",
+      "description":"description 2 ",
+      "date_debut":"2019-06-09",
+      "date_fin_prevu":"2020-06-13",
+      "date_fin_reel":"0000-00-00",
+      "etat":"en attente",
+      "client":"SocialX"
+     }
+	]
 ]
